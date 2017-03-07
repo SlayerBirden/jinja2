@@ -1,6 +1,6 @@
 # Jinja2 Docker image
 
-Basic image to use jinja2 cli agent. See usage here: git@github.com:SlayerBirden/jinja2.git
+Basic image to use jinja2 cli agent. See usage here: https://github.com/mattrobenolt/jinja2-cli
 
 ## Example usage with container
 
