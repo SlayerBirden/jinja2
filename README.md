@@ -22,3 +22,7 @@ Basic image to use jinja2 cli agent. See usage here: https://github.com/mattrobe
     docker run --rm -i -v$(PWD)/test.j2:/templates/test.j2 \
         -v$(PWD)/test.yml:/data/test.yml slayerbirden/j2 \
          jinja2 /templates/test.j2 /data/test.yml > test.out
+
+## jinja2-cli LICENSE
+
+https://raw.githubusercontent.com/mattrobenolt/jinja2-cli/master/LICENSE
