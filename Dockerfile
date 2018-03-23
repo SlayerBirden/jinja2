@@ -13,6 +13,6 @@ RUN apk add --no-cache \
         PyYAML \
     && apk del .build-deps
 
-VOLUME ["/templates", "/out", "/data]
+VOLUME ["/templates", "/out", "/data"]
 
 CMD ["jinja2", "--help"]
